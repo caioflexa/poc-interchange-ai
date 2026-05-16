@@ -1,0 +1,6 @@
+Mastercard Interchange Fees 2024
+Page 1
+Credit Purchase Standard: 1.5%
+Credit Purchase Retail: 1.7% + 0.10
+Debit Purchase Supermarket: 1.1%
+Cash Withdrawal: 2.0% + 5.00

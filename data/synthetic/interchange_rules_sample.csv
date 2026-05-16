@@ -1,0 +1,9 @@
+brand,product_type,transaction_type,channel,merchant_segment,rate_percent,fixed_fee,min_fee,max_fee,currency,conditions
+Visa,credit,purchase,card_present,supermarket,1.2,0.0,,,BRL,Standard Supermarket rate
+Visa,credit,purchase,ecommerce,retail,1.8,0.0,,,BRL,Online retail rate
+Visa,debit,purchase,card_present,general,0.8,0.0,,,BRL,Standard Debit rate
+Mastercard,credit,purchase,card_present,supermarket,1.1,0.0,,,BRL,Standard Supermarket rate
+Mastercard,credit,purchase,ecommerce,retail,1.7,0.1,,,BRL,Online retail rate with fixed fee
+Mastercard,debit,purchase,card_present,general,0.7,0.0,,,BRL,Standard Debit rate
+Visa,credit,purchase,contactless,general,1.3,0.0,,,BRL,Contactless promotion
+Mastercard,credit,cash_withdrawal,card_present,general,2.0,5.0,,,BRL,Cash withdrawal rate

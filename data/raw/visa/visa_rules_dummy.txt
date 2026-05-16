@@ -1,0 +1,6 @@
+Visa Interchange Rates 2024
+Page 1
+Credit Purchase Supermarket: 1.2%
+Credit Purchase Ecommerce: 1.8%
+Debit Purchase General: 0.8%
+Contactless Credit: 1.3%

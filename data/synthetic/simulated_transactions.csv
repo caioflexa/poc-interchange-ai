@@ -1,0 +1,5 @@
+transaction_id,brand,amount,product_type,transaction_type,channel,merchant_segment,installments,contactless,prepaid
+tx_001,Visa,100.0,credit,purchase,card_present,supermarket,1,False,False
+tx_002,Visa,250.0,credit,purchase,ecommerce,retail,1,False,False
+tx_003,Mastercard,50.0,debit,purchase,card_present,general,1,False,False
+tx_004,Mastercard,1000.0,credit,purchase,ecommerce,retail,3,False,False
