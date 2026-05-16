@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Configuração e Modelos
-Copie o `.env.example` para `.env`. É **importante** configurar:
+Configure o arquivo `.env`. É **importante** configurar:
 - `LLM_USE_GPU`: `True` para ativar a aceleração por hardware (RTX 4090).
 
 #### Download de Modelos
