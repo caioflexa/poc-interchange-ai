@@ -15,3 +15,6 @@ data/vector_store/
 # IDEs
 .vscode/
 .idea/
+
+# Chanlit
+.files/
